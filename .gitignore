@@ -1,0 +1,6 @@
+linger-client
+linger-server
+win-linger-server.exe
+win-linger-server.obj
+*.swp
+*.swo
